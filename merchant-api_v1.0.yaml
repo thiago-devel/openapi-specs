@@ -8,7 +8,7 @@ info:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0'
 host: 'localhost:8080'
-basePath: /labs/merchant-api
+basePath: /merchant-api
 tags:
   - name: merchant-api-controller
     description: Merchant API Controller
